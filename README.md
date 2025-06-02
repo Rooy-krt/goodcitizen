@@ -1,2 +1,1 @@
-# goodcitizen
-good citizen campaign
+this is the readme file 
